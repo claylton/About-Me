@@ -2,4 +2,10 @@
     <string name="app_name">About Me</string>
     <string name="name">Claylton Santos</string>
     <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio">"Olá, meu nome é Claylton.
+        \n\nTenho 23 anos e estou me formando em Ciência da computação na Universidade Tiradentes.
+        \n\nGosto de fazer aplicativos mobile e desenvolvo em Android e Flutter.
+        \nAtualmente estou aperfeiçoando os meus conhecimentos em kotlin e algum dia pretendo ser um ótimo FullSack developer
+    </string>
 </resources>
