@@ -6,6 +6,9 @@
     <string name="bio">"Olá, meu nome é Claylton.
         \n\nTenho 23 anos e estou me formando em Ciência da computação na Universidade Tiradentes.
         \n\nGosto de fazer aplicativos mobile e desenvolvo em Android e Flutter.
-        \nAtualmente estou aperfeiçoando os meus conhecimentos em kotlin e algum dia pretendo ser um ótimo FullSack developer
+        \nAtualmente estou aperfeiçoando os meus conhecimentos em kotlin e algum dia pretendo ser um ótimo FullSack developer.
+        \n\nEsse texto final é só para testar o scroll view :D :D :D\n\n\n
     </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
 </resources>
